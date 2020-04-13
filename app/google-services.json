@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480774291015",
+    "firebase_url": "https://howl-35aee.firebaseio.com",
+    "project_id": "howl-35aee",
+    "storage_bucket": "howl-35aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480774291015:android:c7b911cba945a8adcffb62",
+        "android_client_info": {
+          "package_name": "com.example.howl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480774291015-ccp974c9kb41uvb0ess30enqnb9fqro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelw4lTXhOPed-5vPtAEFukun4WWYCZPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480774291015-ccp974c9kb41uvb0ess30enqnb9fqro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
